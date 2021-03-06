@@ -5,4 +5,4 @@ FreeBSD: {
 	enabled: yes
 }
 
-# setenv PACKAGESITE "http://ftpmirror.your.org/pub/FreeBSD-Unofficial-Packages/92amd64-default/"
+setenv PACKAGESITE "http://ftpmirror.your.org/pub/FreeBSD-Unofficial-Packages/92amd64-default/"
